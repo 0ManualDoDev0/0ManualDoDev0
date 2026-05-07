@@ -27,6 +27,7 @@
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [🐾 PetShop Gestão](https://github.com/0ManualDoDev0/petshop-gestao) | Sistema completo de gestão para petshops em produção | NestJS · PostgreSQL · Railway |
+| [💳 Payment API](https://github.com/0ManualDoDev0/payment-api) | API de pagamentos com Mercado Pago, webhooks, filas BullMQ e retry automático | NestJS · Redis · Railway |
 
 ---
 
