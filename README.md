@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou Carlos 👋</h1>
-<h3 align="center">Fullstack Developer · Uberaba, Brasil 🇧🇷</h3>
+<h1 align="center">Olá, eu sou Pedro 👋</h1>
+<h3 align="center">CEO do Manual.do.Dev · Uberaba, Brasil 🇧🇷</h3>
 
 <p align="center">
   Construo sistemas reais — do banco de dados à interface, do deploy ao monitoramento.
@@ -40,5 +40,5 @@
 ---
 
 <p align="center">
-  <i>Construindo um projeto de cada vez. 🐾</i>
+  <i>Construindo um projeto de cada vez. 🚀</i>
 </p>
